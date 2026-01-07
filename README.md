@@ -1,41 +1,108 @@
 ![Banner](https://raw.githubusercontent.com/BobbyChoudhary7707/BobbyChoudhary7707/main/Er.Bobby%20Choudhary.png)
-<h1 align="center">Hey 👋, I'm BOBBY CHOUDHARY</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobbychoudhary7707&label=Profile%20views&color=0e75b6&style=flat" alt="bobbychoudhary7707" /> </p>
-
-- 🔭 I’m currently working on **Software Project**
-
-- 🌱 I’m currently learning **Django and Advanced Development**
-
-- 👯 I’m looking to collaborate on **Software Project**
-
-- 🤝 I’m looking for help with **Fresher job**
-
-- 💬 Ask me about **Software Development ,Data Analytic and about Technical Skill**
-
-- 📫 How to reach me **bobbychoudhary321@gmail.com**
-<img 
-  align="right" 
-  alt="coding" 
-  width="400" 
-  src="https://github.com/BobbyChoudhary7707/BobbyChoudhary7707/blob/main/Typing%20Coding%20GIF%20by%20Sugartown.gif"
-/>
-
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-DEwopBAuE6lB-Ib6W_jjAvmENJEHIlW/view?usp=sharing](https://drive.google.com/file/d/1-DEwopBAuE6lB-Ib6W_jjAvmENJEHIlW/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bobbychoudhary07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bobbychoudhary07" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/mr_bobby_choudhary_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mr_bobby_choudhary_/" height="30" width="40" /></a>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Python+%7C+Django+%7C+React;Software+Developer+%7C+Fresher;Always+Learning+New+Things"
+    alt="Typing SVG"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bobbychoudhary7707&show_icons=true&locale=en&layout=compact" alt="bobbychoudhary7707" /></p>
+<h1 align="center">Hey 👋, I'm Bobby Choudhary</h1>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bobbychoudhary7707&show_icons=true&locale=en" alt="bobbychoudhary7707" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bobbychoudhary7707&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobbychoudhary7707&" alt="bobbychoudhary7707" /></p>
+<img align="right" alt="coding" width="380" src="https://raw.githubusercontent.com/BobbyChoudhary7707/BobbyChoudhary7707/main/Typing%20Coding%20GIF%20by%20Sugartown.gif"/>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 Currently working on **Software Development Projects**
+- 🌱 Learning **Django & Advanced Full Stack Development**
+- 👯 Open to collaborate on **Real-World Software Projects**
+- 🤝 Actively looking for a **Fresher / Entry-Level Job Opportunity**
+- 💬 Ask me about **Software Development, Data Analytics & Technical Skills**
+- 📫 Reach me at **bobbychoudhary321@gmail.com**
+- 📄 [View My Resume](https://drive.google.com/file/d/1-DEwopBAuE6lB-Ib6W_jjAvmENJEHIlW/view)
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/bobbychoudhary07" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/mr_bobby_choudhary_" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</p>
+
+---
+---
+
+---
+
+## 🧠 Projects
+
+### 🎮 Car Game (Web-Based Game)
+- Interactive car racing game with smooth animations
+- Keyboard-based controls and collision detection
+- Optimized performance for browser gameplay
+- **Tech Stack:** HTML, CSS, JavaScript, WebAssembly  
+- 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707)
+- 🌐 **Live Demo:** https://bobbychoudhary7707.github.io/car-game
+
+---
+
+### 🛒 Sentiment Analysis System (Final Year Project)
+- Machine Learning–based sentiment analysis on e-commerce reviews
+- Classified feedback into **Positive / Negative / Neutral**
+- NLP techniques for text preprocessing and feature extraction
+- **Tech Stack:** Python, Machine Learning, NLP  
+- 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707)
+- 🌐 **Live Demo:** Not deployed (Model-based project)
+
+---
+
+### 💄 Makeup Studio Website (Sponsored Project)
+- Responsive business website for a makeup studio
+- Service showcase, contact section, and booking UI
+- Improved client’s digital presence
+- **Tech Stack:** HTML, CSS, JavaScript  
+- 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707)
+- 🌐 **Live Demo:** https://makeupstudio-demo.netlify.app
+
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bobbychoudhary7707&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bobbychoudhary7707&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbychoudhary7707&theme=tokyonight" />
+</p>
