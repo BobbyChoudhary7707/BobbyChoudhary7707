@@ -18,11 +18,11 @@
 
 ---
 
-### 👨‍💻 About Me
+ 👨‍💻 About Me
 
 - 🔭 Currently working on **Software Development Projects**
 - 🌱 Learning **Django & Advanced Full Stack Development**
-- 👯 Open to collaborate on **Real-World Software Projects**
+- 🤝 Open to collaborate on **Real-World Software Projects**
 - 🤝 Actively looking for a **Fresher / Entry-Level Job Opportunity**
 - 💬 Ask me about **Software Development, Data Analytics & Technical Skills**
 - 📫 Reach me at **bobbychoudhary321@gmail.com**
@@ -30,7 +30,7 @@
 
 ---
 
-### 🌐 Connect With Me
+ 🌐 Connect With Me
 <p align="left">
   <a href="https://www.linkedin.com/in/bobbychoudhary07" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+ 🛠️ Languages & Tools
 
 <p align="left">
   <!-- Programming & Web -->
@@ -76,9 +76,9 @@
 
 
 
-## 🧠 Projects
+ 🧠 Projects
 
-### 🎮 Car Game (Web-Based Game)
+ 🎮 Car Game (Web-Based Game)
 - Interactive car racing game with smooth animations
 - Keyboard-based controls and collision detection
 - Optimized performance for browser gameplay
@@ -88,7 +88,7 @@
 
 ---
 
-### 🛒 Sentiment Analysis System (Final Year Project)
+ 🛒 Sentiment Analysis System (Final Year Project)
 - Machine Learning–based sentiment analysis on e-commerce reviews
 - Classified feedback into **Positive / Negative / Neutral**
 - NLP techniques for text preprocessing and feature extraction
@@ -98,7 +98,7 @@
 
 ---
 
-### 💄 Makeup Studio Website (Sponsored Project)
+ 💄 Makeup Studio Website (Sponsored Project)
 - Responsive business website for a makeup studio
 - Service showcase, contact section, and booking UI
 - Improved client’s digital presence
@@ -106,7 +106,7 @@
 - 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707)
 - 🌐 **Live Demo:** https://makeupstudio-demo.netlify.app
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobbychoudhary7707&" alt="bobbychoudhary7707" /></p>
 ## 📈 Contribution Graph
 <div align="center">
