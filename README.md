@@ -38,28 +38,43 @@
   <a href="https://www.instagram.com/mr_bobby_choudhary_" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
   </a>
+  <a href="mailto:bobbychoudhary321@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" height="30" width="40" alt="Gmail"/>
+</a>
+  <a href="tel:+917828464540">
+  <img src="https://img.icons8.com/color/48/phone.png" height="30" width="40" alt="Phone"/>
+</a>
+  <a href="https://www.google.com/maps/place/India" target="_blank">
+  <img src="https://img.icons8.com/color/48/marker--v1.png" height="30" width="40" alt="Location"/>
+</a>
+
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools
+
 <p align="left">
+  <!-- Programming & Web -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+
+  <!-- Database & DevOps -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+
+  <!-- Design & Analytics -->
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" width="40"/>
 </p>
 
----
----
 
----
 
 ## 🧠 Projects
 
@@ -91,18 +106,10 @@
 - 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707)
 - 🌐 **Live Demo:** https://makeupstudio-demo.netlify.app
 
-
-
 ### 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobbychoudhary7707&" alt="bobbychoudhary7707" /></p>
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bobbychoudhary7707&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bobbychoudhary7707&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bobbychoudhary7707&theme=tokyonight" />
-</p>
