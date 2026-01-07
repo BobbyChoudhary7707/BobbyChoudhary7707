@@ -1,4 +1,4 @@
-|[logo](https://github.com/BobbyChoudhary7707/BobbyChoudhary7707/blob/main/Er.Bobby%20Choudhary.png)
+![Banner](https://raw.githubusercontent.com/BobbyChoudhary7707/BobbyChoudhary7707/main/Er.Bobby%20Choudhary.png)
 <h1 align="center">Hey 👋, I'm BOBBY CHOUDHARY</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
@@ -15,7 +15,13 @@
 - 💬 Ask me about **Software Development ,Data Analytic and about Technical Skill**
 
 - 📫 How to reach me **bobbychoudhary321@gmail.com**
-<img align="right" alt="coding" width="400" src="[https://cdn.dribbble.com/userupload/23681047/file/original-d6517f1e2cc5829933ba69ca77010944.gi](https://share.google/94Wt81LO0e94f98bg)"
+<img 
+  align="right" 
+  alt="coding" 
+  width="400" 
+  src="https://github.com/BobbyChoudhary7707/BobbyChoudhary7707/blob/main/Typing%20Coding%20GIF%20by%20Sugartown.gif"
+/>
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1-DEwopBAuE6lB-Ib6W_jjAvmENJEHIlW/view?usp=sharing](https://drive.google.com/file/d/1-DEwopBAuE6lB-Ib6W_jjAvmENJEHIlW/view?usp=sharing)
 
