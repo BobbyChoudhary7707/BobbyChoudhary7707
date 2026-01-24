@@ -83,7 +83,7 @@
 - Keyboard-based controls and collision detection
 - Optimized performance for browser gameplay
 - **Tech Stack:** HTML, CSS, JavaScript, WebAssembly  
-- 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707)
+- 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707/-The-Mad-Driver-)
 - 🌐 **Live Demo:** https://bobbychoudhary7707.github.io/car-game
 
 ---
@@ -93,7 +93,7 @@
 - Classified feedback into **Positive / Negative / Neutral**
 - NLP techniques for text preprocessing and feature extraction
 - **Tech Stack:** Python, Machine Learning, NLP  
-- 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707)
+- 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707/SENTIMENT-ANALYSIS-OF-ECOMMERCE-WEBSITE-PRODUCT-REVIEW)
 - 🌐 **Live Demo:** Not deployed (Model-based project)
 
 ---
