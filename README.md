@@ -84,7 +84,7 @@
 - Optimized performance for browser gameplay
 - **Tech Stack:** HTML, CSS, JavaScript, WebAssembly  
 - 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707/-The-Mad-Driver-)
-- 🌐 **Live Demo:** https://bobbychoudhary7707.github.io/car-game
+- 🌐 **Live Demo:** https://unique-hummingbird-b833e7.netlify.app/
 
 ---
 
@@ -105,6 +105,8 @@
 - **Tech Stack:** HTML, CSS, JavaScript  
 - 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707)
 - 🌐 **Live Demo:** https://makeupstudio-demo.netlify.app
+
+- 
 
  📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobbychoudhary7707&" alt="bobbychoudhary7707" /></p>
