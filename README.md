@@ -98,24 +98,16 @@
 
 ---
 
- 💄 Makeup Studio Website (Sponsored Project)
-- Responsive business website for a makeup studio
-- Service showcase, contact section, and booking UI
-- Improved client’s digital presence
+ 💻 Personal Portfolio Website
+- Designed and developed a modern personal portfolio to showcase projects, skills, and achievements
+- Includes sections like About, Services, Resume, Projects, Certifications, and Contact
+-Features interactive UI elements such as typing animation, project showcase, and smooth navigation
+-Fully responsive design optimized for mobile and desktop
 - **Tech Stack:** HTML, CSS, JavaScript  
-- 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707/beauty-parlour-website-)
-- 🌐 **Live Demo:** https://makeupstudio-demo.netlify.app
+- 🔗 **GitHub Repo:** [View Code](https://github.com/BobbyChoudhary7707/PORTFOLIO)
+- 🌐 **Live Demo:** https://bobbychoudhary07.netlify.app/
 
-
-💻 Personal Portfolio Website
-Designed and developed a modern personal portfolio to showcase projects, skills, and achievements
-Includes sections like About, Services, Resume, Projects, Certifications, and Contact
-Features interactive UI elements such as typing animation, project showcase, and smooth navigation
-Fully responsive design optimized for mobile and desktop
-Tech Stack: HTML, CSS, JavaScript
-🔗 GitHub Repo: View Code (https://github.com/BobbyChoudhary7707/PORTFOLIO)
-🌐 Live Demo: https://bobbychoudhary07.netlify.app/
-
+---
  📊 GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bobbychoudhary7707&" alt="bobbychoudhary7707" /></p>
  📈 Contribution Graph
